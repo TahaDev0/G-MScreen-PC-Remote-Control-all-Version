@@ -614,7 +614,7 @@ http://ip:port/stream/channel/2
 
 | الإصدار | الحجم | التحميل |
 |---------|-------|----------|
-| **G-MScreenPC v26.2** | 19 MB | [![Download](https://img.shields.io/badge/Download-G--MScreenPC_v26.2-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/8qq49qq0ixfm) |
+| **G-MScreenPC v26.3** | 19 MB | [![Download](https://img.shields.io/badge/Download-G--MScreenPC_v26.3-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/wqx6nn9cznk8) |
 | **G-MScreenPC v26.1** | 36 MB | [![Download](https://img.shields.io/badge/Download-G--MScreenPC_v26.1-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/9k17zq49hpki) |
 
 ### 📦 إصدارات أخرى
@@ -1302,7 +1302,7 @@ Interactive web page with:
 
 | Version | Size | Download |
 |---------|------|----------|
-| **G-MScreenPC v26.2** | 20 MB | [![Download](https://img.shields.io/badge/Download-G--MScreenPC_v26.2-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/8qq49qq0ixfm) |
+| **G-MScreenPC v26.3** | 20 MB | [![Download](https://img.shields.io/badge/Download-G--MScreenPC_v26.3-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/wqx6nn9cznk8) |
 | **G-MScreenPC v26.1** | 36 MB | [![Download](https://img.shields.io/badge/Download-G--MScreenPC_v26.1-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/9k17zq49hpki) |
 
 ### 📦 Other Versions
